@@ -1,4 +1,4 @@
-# eslint-plugin-9952
+# eslint-plugin-my-test
 
 A dummy plugin for testing
 
@@ -10,20 +10,20 @@ You'll first need to install [ESLint](https://eslint.org/):
 npm i eslint --save-dev
 ```
 
-Next, install `eslint-plugin-9952`:
+Next, install `eslint-plugin-my-test`:
 
 ```sh
-npm install eslint-plugin-9952 --save-dev
+npm install eslint-plugin-my-test --save-dev
 ```
 
 ## Usage
 
-Add `9952` to the plugins section of your `.eslintrc` configuration file. You can omit the `eslint-plugin-` prefix:
+Add `my-test` to the plugins section of your `.eslintrc` configuration file. You can omit the `eslint-plugin-` prefix:
 
 ```json
 {
     "plugins": [
-        "9952"
+        "my-test"
     ]
 }
 ```
