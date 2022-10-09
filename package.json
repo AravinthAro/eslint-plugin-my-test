@@ -15,7 +15,7 @@
     "test": "mocha tests --recursive"
   },
   "dependencies": {
-    "requireindex": "^1.2.0"
+    "eslint-plugin-ember": "^11.0.6"
   },
   "devDependencies": {
     "eslint": "^8.19.0",
